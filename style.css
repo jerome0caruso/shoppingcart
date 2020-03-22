@@ -1,0 +1,19 @@
+.done {
+	text-decoration: line-through;
+}
+	
+.slist {
+	cursor: pointer;
+}
+button{
+	margin-left: 12px;
+}
+.container{
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 20%;
+}
+body {
+	background-color: lightgrey;
+}
